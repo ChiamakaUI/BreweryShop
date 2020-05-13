@@ -1,0 +1,32 @@
+@font-face{
+    font-family: "Lobster-Regular";
+    src: url("./Lobster-Regular.ttf");
+}
+.navbar {
+    background-color: rgb(8, 70, 129) !important;
+
+}
+.navbar-brand{
+    font-family: Lobster-Regular;
+    font-size: 32px !important;
+    color: #fff !important;
+}
+
+.menu{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px !important;
+}
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+footer{
+    color: #fff;
+}
+#ada{
+    background-color:rgb(8, 70, 129) !important ;
+}
+
+#con{
+    background-color:rgb(8, 70, 129) !important ;
+}
